@@ -1,5 +1,5 @@
 class Country < ApplicationRecord
     has_many :topics
-    
-    validates :name, presence: true
+
+    validates_presence_of :name, uniqueness: true
 end
