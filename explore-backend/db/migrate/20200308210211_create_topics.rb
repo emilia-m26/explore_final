@@ -3,7 +3,7 @@ class CreateTopics < ActiveRecord::Migration[6.0]
     create_table :topics do |t|
       t.string :name
       t.string :vid_url
-      t.integer : country_id
+      t.integer :country_id
 
       t.timestamps
     end
