@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(version: 2020_03_08_210506) do
 
   create_table "subscriptions", force: :cascade do |t|
     t.string "email"
+    t.string "name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -28,6 +29,7 @@ ActiveRecord::Schema.define(version: 2020_03_08_210506) do
   create_table "topics", force: :cascade do |t|
     t.string "name"
     t.string "vid_url"
+    t.string "description"
     t.integer "country_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
