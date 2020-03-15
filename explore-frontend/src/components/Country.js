@@ -12,13 +12,13 @@ const Country = ({country}) => {
   console.log(country)
 
   //using this for description for topics
-//<Card.Text>{country.detail}</Card.Text>
+//<Card.Text>{country.description}</Card.Text>
   
   return (
 
     <CardDeck>
       <Card border="info">
-        <img variant="top"  alt={country.name} src={country.img_url}/>            
+        <Card.Img variant="top"  alt={country.name} src={country.img_url}/>            
     <Card.Body>
       <Card.Title>{country.name}</Card.Title>
         <Button variant="outline-info" 

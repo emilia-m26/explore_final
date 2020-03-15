@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import {fetchCountries} from '../actions/fetchCountries';
 import Countries from '../components/Countries';
 
-class CountriesContainer extends React.Component {
+class CountriesContainer extends Component {
 
     
     componentDidMount() {
