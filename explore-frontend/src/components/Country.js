@@ -5,8 +5,6 @@ import Button from 'react-bootstrap/Button'
 import CardDeck from 'react-bootstrap/CardDeck'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
-
 const Country = ({country}) => {
 
   console.log(country)
@@ -17,10 +15,11 @@ const Country = ({country}) => {
   return (
 
     <CardDeck>
-      <Card border="info">
-        <Card.Img variant="top"  alt={country.name} src={country.img_url}/>            
+      <Card border="info" style={{ width: '18rem' }}>
+      <Card.Header as="h5">{country.name}</Card.Header>
+        <Card.Img variant="top"  alt={country.name} src="https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />            
     <Card.Body>
-      <Card.Title>{country.name}</Card.Title>
+      <Card.Text>Quick blurb about each country</Card.Text>
         <Button variant="outline-info" 
           as={Link} to={`countries/${country.id}/topics`}
           >Explore!
