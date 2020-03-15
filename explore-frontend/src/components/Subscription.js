@@ -5,10 +5,8 @@ import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 
 class Subscription extends Component {
-    //add name later once I update migration
     state = {
         email:''
-        //name: ''
     }
 
 
