@@ -6,7 +6,7 @@ import TopicsContainer from './containers/TopicsContainer';
 import Subscription from './components/Subscription';
 //import Header from './components/Header';
 import Home from './components/Home';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import{ BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
