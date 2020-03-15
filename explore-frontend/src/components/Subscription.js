@@ -46,4 +46,4 @@ class Subscription extends Component {
     }
 }
 
-export default Subscription
+export default connect(null,{addEmail})(Subscription)
