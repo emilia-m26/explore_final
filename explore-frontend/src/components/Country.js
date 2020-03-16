@@ -19,7 +19,7 @@ const Country = ({country}) => {
       <Card.Header as="h5">{country.name}</Card.Header>
         <Card.Img variant="top"  alt={country.name} src={country.img_url}/>            
     <Card.Body>
-      <Card.Text>Quick blurb about each country</Card.Text>
+      <Card.Text>{country.detail}</Card.Text>
         <Button variant="outline-info" 
           as={Link} to={`countries/${country.id}/topics`}
           >Explore!

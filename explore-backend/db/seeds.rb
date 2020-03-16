@@ -24,22 +24,22 @@ Topic.create(country_id:2, name: "Dance", description:"Traditional Dances across
 Topic.create(country_id:2, name: "Food", description:"Brazilian Street Food", vid_url:"https://www.youtube.com/watch?v=TlWDF3BfUdo")
 
 #country 3 topics - puerto rico
-Topic.create(country_id:3, name: "Language", description:"", vid_url:"https://www.youtube.com/watch?v=4ChPSvIxIHU")
-Topic.create(country_id:3, name: "Art", description:" ", vid_url:"https://www.youtube.com/watch?v=VXyKBp3t9ow")
-Topic.create(country_id:3, name: "Dance", description:"", vid_url:"https://www.youtube.com/watch?v=Dx66LPeFKSI ")
-Topic.create(country_id:3, name: "Food", description:"", vid_url:"https://www.youtube.com/watch?v=tJkM0iXZJa4")
+Topic.create(country_id:3, name: "Language", description:"The official languange of Puerto Rico is Spanish. Taino is the language spoken by the indigenous of Puerto Rico.", vid_url:"https://www.youtube.com/watch?v=4ChPSvIxIHU")
+Topic.create(country_id:3, name: "Art", description:"Street Art in Protest", vid_url:"https://www.youtube.com/watch?v=VXyKBp3t9ow")
+Topic.create(country_id:3, name: "Dance", description:"Traditional Dances of Puerto Rico", vid_url:"https://www.youtube.com/watch?v=Dx66LPeFKSI ")
+Topic.create(country_id:3, name: "Food", description:"Street Food of Puerto Rico", vid_url:"https://www.youtube.com/watch?v=tJkM0iXZJa4")
 
 #country 4 topics - egypt
-Topic.create(country_id:4, name: "Language", description:"", vid_url:" https://www.youtube.com/watch?v=GkZ9WG7QauI")
-Topic.create(country_id:4, name: "Art", description:" ", vid_url:"https://www.youtube.com/watch?v=ibp_i7bekQU")
-Topic.create(country_id:4, name: "Dance", description:"", vid_url:"https://www.youtube.com/watch?v=BLqJmlykNsA")
-Topic.create(country_id:4, name: "Food", description:"", vid_url:"https://www.youtube.com/watch?v=LlQSmN2O6rE")
+Topic.create(country_id:4, name: "Language", description:"The Old Egyptian Language", vid_url:" https://www.youtube.com/watch?v=GkZ9WG7QauI")
+Topic.create(country_id:4, name: "Art", description:"Traditional Egyptian Art", vid_url:"https://www.youtube.com/watch?v=ibp_i7bekQU")
+Topic.create(country_id:4, name: "Dance", description:"Classic Egyptian Belly Dance", vid_url:"https://www.youtube.com/watch?v=BLqJmlykNsA")
+Topic.create(country_id:4, name: "Food", description:"Egyptian Street Food", vid_url:"https://www.youtube.com/watch?v=LlQSmN2O6rE")
 
 #country 5 topics - india
-Topic.create(country_id:5, name: "Language", description:"", vid_url:" https://www.youtube.com/watch?v=QdPN9vVZeXY")
-Topic.create(country_id:5, name: "Art", description:" ", vid_url:"https://www.youtube.com/watch?v=I4KV_qCZsyQ")
-Topic.create(country_id:5, name: "Dance", description:"", vid_url:"https://www.youtube.com/watch?v=ZizEjh4_EdM")
-Topic.create(country_id:5, name: "Food", description:"", vid_url:"https://www.youtube.com/watch?v=K6FOZaZQ99A")
+Topic.create(country_id:5, name: "Language", description:"Hindi derives from Sanskrit.", vid_url:" https://www.youtube.com/watch?v=QdPN9vVZeXY")
+Topic.create(country_id:5, name: "Art", description:"Art of India", vid_url:"https://www.youtube.com/watch?v=I4KV_qCZsyQ")
+Topic.create(country_id:5, name: "Dance", description:"Traditional Dances of India", vid_url:"https://www.youtube.com/watch?v=ZizEjh4_EdM")
+Topic.create(country_id:5, name: "Food", description:"Street Food of India", vid_url:"https://www.youtube.com/watch?v=K6FOZaZQ99A")
 
 #emails already subscribed
 Subscription.create(email:"emilia@example.com")
