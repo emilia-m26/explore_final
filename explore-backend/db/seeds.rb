@@ -13,9 +13,9 @@ Country.create(name:"India",img_url: "https://www.youtube.com/watch?v=ibp_i7bekQ
 
 #country 1 topics - japan
 Topic.create(country_id:1, name: "Language", description:"The official language of Japan is Japanese.", vid_url:"https://www.youtube.com/watch?v=vZPHhRHVUco")
-Topic.create(country_id:1, name: "Art", description:"", vid_url:" https://www.youtube.com/watch?v=g7H8IhGZnpM")
-Topic.create(country_id:1, name: "Dance", description:"", vid_url:" https://www.youtube.com/watch?v=g7H8IhGZnpM")
-Topic.create(country_id:1, name: "Food", description:"", vid_url:" https://www.youtube.com/watch?v=g7H8IhGZnpM")
+Topic.create(country_id:1, name: "Art", description:"", vid_url:"https://www.youtube.com/watch?v=g7H8IhGZnpM")
+Topic.create(country_id:1, name: "Dance", description:"", vid_url:"https://www.youtube.com/watch?v=HU7ai3FIJrs")
+Topic.create(country_id:1, name: "Food", description:"", vid_url:"https://www.youtube.com/watch?v=DQbPQ8GZBo4")
 
 #country 2 topics - brasil
 Topic.create(country_id:2, name: "Language", description:"", vid_url:"https://www.youtube.com/watch?v=GGaFQNSjpNw")
