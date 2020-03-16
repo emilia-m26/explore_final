@@ -17,7 +17,7 @@ const Country = ({country}) => {
     <CardDeck>
       <Card border="info" style={{ width: '18rem' }}>
       <Card.Header as="h5">{country.name}</Card.Header>
-        <Card.Img variant="top"  alt={country.name} src="https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />            
+        <Card.Img variant="top"  alt={country.name} src={country.img_url}/>            
     <Card.Body>
       <Card.Text>Quick blurb about each country</Card.Text>
         <Button variant="outline-info" 
