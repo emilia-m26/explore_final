@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import Topics from '../components/Topics';
-import { fetchCountries } from '../actions/addEmailSubscription';
+import { fetchCountries } from '../actions/fetchCountries';
 
 class TopicsContainer extends Component {
     render () {
