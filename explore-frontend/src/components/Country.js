@@ -26,6 +26,7 @@ const Country = ({country}) => {
         </Button>
     </Card.Body>  
     </Card>
+    <br></br>
   </CardDeck>
   );
 }
