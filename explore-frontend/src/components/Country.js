@@ -20,7 +20,7 @@ const Country = ({country}) => {
         <Card.Img variant="top"  alt={country.name} src={country.img_url}/>            
     <Card.Body>
       <Card.Text>{country.detail}</Card.Text>
-        <Button variant="outline-info" as={Link} to={`countries/${country.id}/topics`}>Explore!</Button>
+        <Button variant="outline-info" as={Link} to={`countries/${country.id}/topics`}>Explore</Button>
     </Card.Body>  
     </Card>
   </CardDeck>
