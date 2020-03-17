@@ -1,14 +1,14 @@
 .slider {
     position: relative;
     width: 100%;
-    height: 100vh;
+    height: 88vh;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     display: flex;
     align-items: center;
     overflow: hidden;
-    background: black;
+    background: white;
     i {
         font-size: 2vw;
     }
@@ -17,7 +17,7 @@
 .slide {
     position: relative;
     min-width: 100%;
-    height: 80%;
+    height: 90%;
     transition: 0.5s;
     overflow: hidden;
 }
@@ -33,7 +33,7 @@
     outline: none;
     transition: 0.5s;
     &:hover {
-        background: black;
+        background: #5bc0de;
         cursor: pointer;
         i {
             color: whitesmoke;

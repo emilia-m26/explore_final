@@ -1,3 +1,14 @@
+.header {
+    text-align: center;
+}
+
+.navbar-default {
+    background: none;
+    margin-bottom: 0px;
+    color: red;
+}
+
+
 /* .App {
   text-align: center;
 }

@@ -4,7 +4,7 @@ import './App.css';
 import CountriesContainer from './containers/CountriesContainer';
 import TopicsContainer from './containers/TopicsContainer';
 import Subscription from './components/Subscription';
-//import Header from './components/Header';
+import Header from './components/Header';
 import Home from './components/Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -16,6 +16,7 @@ function App() {
   return (
     <Router>
     <div className="App">
+      <Header />
      <Switch>   
         <Route exact path='/countries' component={CountriesContainer}/>
         <Route exact path='/subscription' component={Subscription}/>
