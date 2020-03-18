@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
-import { Player, BigPlayButton } from 'video-react';
+//import { Player, BigPlayButton } from 'video-react';
+import ReactPlayer from 'react-player'
 
 const Topic = ({topic}) => {
 
@@ -10,19 +11,28 @@ const Topic = ({topic}) => {
     return(
 
     <div>
-      
-          <h2>{topic.name}</h2>
-          <h4>{topic.description}</h4> 
-          <Player src={topic.vid_url} >
+      <h3>{topic.name}</h3>
+      <h5>{topic.description}</h5> 
+      <br></br>
+      {/* <div className="embed-responsive embed-responsive-16by9">
+  <iframe title="embedsPage" className="embed-responsive-item" src={topic.vid_url}></iframe>
+</div> */}
+
+          <ReactPlayer url={topic.vid_url} controls={true} />
+        
+          {/* <Player src={topic.vid_url} >
         <BigPlayButton position="center" />
-        </Player>
+        </Player> */}
+      
+      <br></br>
           <h4>
             <Button variant="info" as={Link} to='/countries'>Return to Countries</Button>
           </h4>
+          <br></br>
         </div>         
   );
 }
   
   export default Topic;
 
-  //<Badge pill variant="info" as={Link} to='/countries'>Return to Countries</Badge>
+  
