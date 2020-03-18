@@ -26,6 +26,9 @@ class Subscription extends Component {
     render () {
         return (
             <div className="container text-center">
+                <br></br>
+                <br></br>
+                <h4>Subscribe to Receive Our Updates as New Countries are Added.</h4>
             <Form onSubmit={this.handleSubmit}>
                 <Form.Group controlId="formBasicEmail">
                 <Form.Label>Email Address</Form.Label>

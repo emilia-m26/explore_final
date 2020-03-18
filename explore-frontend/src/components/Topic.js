@@ -10,26 +10,31 @@ const Topic = ({topic}) => {
 
     return(
 
-    <div>
+    <div className="text-center" >
+      <br></br>
+      <br></br>
+      <br></br>
       <h3>{topic.name}</h3>
       <h5>{topic.description}</h5> 
       <br></br>
+      
       {/* <div className="embed-responsive embed-responsive-16by9">
   <iframe title="embedsPage" className="embed-responsive-item" src={topic.vid_url}></iframe>
 </div> */}
-
-          <ReactPlayer url={topic.vid_url} controls={true} />
-        
+    <div className="video" style={{display: 'flex', justifyContent: 'center'}}>
+      <ReactPlayer url={topic.vid_url} controls={true} />
+    </div>
+         
           {/* <Player src={topic.vid_url} >
         <BigPlayButton position="center" />
         </Player> */}
       
       <br></br>
-          <h4>
-            <Button variant="info" as={Link} to='/countries'>Return to Countries</Button>
-          </h4>
-          <br></br>
-        </div>         
+      <h4>
+        <Button variant="info" as={Link} to='/countries'>Return to Countries</Button>
+      </h4>
+        <br></br>
+    </div>         
   );
 }
   
