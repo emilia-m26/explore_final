@@ -1,9 +1,19 @@
-import React from 'react'
+import React from  'react'
+import Topic from './Topic';
 
-export const Topics = () => {
+const Topics = (props) => {
+   
+    console.log(props)
+
     return (
         <div>
-            
-        </div>
-    )
+         {props.topics && props.topics.map(topic => {
+             return (
+                <Topic topic={topic} key={topic.id} />
+             )
+         })}
+        </div> 
+    );
 }
+
+export default Topics;

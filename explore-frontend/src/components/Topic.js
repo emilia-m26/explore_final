@@ -1,7 +1,7 @@
 import React from 'react';
-import Badge from 'react-bootstrap/Badge';
 import { Link } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
+import { Player, BigPlayButton } from 'video-react';
 
 const Topic = ({topic}) => {
 
@@ -10,8 +10,12 @@ const Topic = ({topic}) => {
     return(
 
     <div>
+      
           <h2>{topic.name}</h2>
           <h4>{topic.description}</h4> 
+          <Player src={topic.vid_url} >
+        <BigPlayButton position="center" />
+        </Player>
           <h4>
             <Button variant="info" as={Link} to='/countries'>Return to Countries</Button>
           </h4>
