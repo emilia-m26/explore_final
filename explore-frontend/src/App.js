@@ -10,8 +10,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import{ BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
-//main component of homepage and my routing will be here
-
 function App() {
   return (
     <Router>

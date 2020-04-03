@@ -21,6 +21,7 @@ const Topic = ({topic}) => {
       {/* <div className="embed-responsive embed-responsive-16by9">
   <iframe title="embedsPage" className="embed-responsive-item" src={topic.vid_url}></iframe>
 </div> */}
+
     <div className="video" style={{display: 'flex', justifyContent: 'center'}}>
       <ReactPlayer url={topic.vid_url} controls={true} />
     </div>

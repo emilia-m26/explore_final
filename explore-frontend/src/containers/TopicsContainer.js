@@ -19,7 +19,7 @@ class TopicsContainer extends Component {
         console.log("Topics: " + topics)
 
         if (!topics) {
-            return <div> Loading ...</div>
+            return <div>Loading ...</div>
         }
 
         return (

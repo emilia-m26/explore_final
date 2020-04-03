@@ -9,20 +9,20 @@ class Subscription extends Component {
         email:''
     }
 
-
     handleChange = (event) => {
         this.setState({
             email: event.target.value
         });
     }
-
-    handleSubmit =(event) => {
+    
+    handleSubmit = (event) => {
       event.preventDefault()
       this.props.addEmail(this.state)
       this.setState({
           email:''
       })
     }
+    
     render () {
         return (
             <div className="container text-center">
@@ -47,4 +47,5 @@ class Subscription extends Component {
     }
 }
 
+//componenet doesn't need state, dispatching action only
 export default connect(null,{addEmail})(Subscription)
