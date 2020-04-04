@@ -4,7 +4,7 @@ import {fetchCountries} from '../actions/fetchCountries';
 import Countries from '../components/Countries';
 
 class CountriesContainer extends Component {
-
+    //mapped in {fetchCountries} dispatch argument in connect method
     componentDidMount() {
       this.props.fetchCountries()
     }
@@ -30,10 +30,15 @@ class CountriesContainer extends Component {
       }
   
       const mapStateToProps = state => {
-        
+        //defining which part of state is needed for this component
         return {
            countries: state.countries
         }
       }
   
+      //Connects CountriesContainer component to Redux store
   export default connect(mapStateToProps, {fetchCountries})(CountriesContainer);
+
+
+
+  
