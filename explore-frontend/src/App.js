@@ -6,6 +6,7 @@ import TopicsContainer from './containers/TopicsContainer';
 import Subscription from './components/Subscription';
 import Header from './components/Header';
 import Home from './components/Home';
+import About from './components/About.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import{ BrowserRouter as Router, Route, Switch } from 'react-router-dom';
@@ -16,6 +17,7 @@ function App() {
     <div className="App">
       <Header />
      <Switch>   
+        <Route exact path='/about' component={About}/>
         <Route exact path='/countries' component={CountriesContainer}/>
         <Route exact path='/subscription' component={Subscription}/>
         <Route  path='/countries/:id/topics' component={TopicsContainer}/>
