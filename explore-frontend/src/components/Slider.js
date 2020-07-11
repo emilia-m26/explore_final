@@ -1,14 +1,22 @@
 import React, { Component } from "react";
 import "../slider.scss";
 import ImgComp from "./ImgComp";
-import i1 from "../pictures/brazil.jpg";
-import i2 from "../pictures/dr.jpg";
-import i3 from "../pictures/maldives.jpg";
+import i1 from "../pictures/brasil-lg.jpeg";
+import i2 from "../pictures/greece.jpg";
+import i3 from "../pictures/hawaii.jpg";
+import i4 from "../pictures/morocco.jpg";
+import i5 from "../pictures/singapore.jpg";
+import i6 from "../pictures/thailand.jpg";
+import i7 from "../pictures/venice.jpg";
 
 const sliderArr = [
   <ImgComp src={i1} />,
   <ImgComp src={i2} />,
-  <ImgComp src={i3} />
+  <ImgComp src={i3} />,
+  <ImgComp src={i4} />,
+  <ImgComp src={i5} />,
+  <ImgComp src={i6} />,
+  <ImgComp src={i7} />,
 ];
 
 class Slider extends Component {
