@@ -10,8 +10,16 @@
     overflow: hidden;
     background: white;
     i {
-        font-size: 2vw;
+        font-size: 4vw;
     }
+}
+
+.center {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .slide {
@@ -19,7 +27,7 @@
     min-width: 100%;
     height: 90%;
     transition: 0.5s;
-    overflow: visible;
+    overflow: hidden;
 }
 
 %btn-styles {
