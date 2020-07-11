@@ -6,10 +6,11 @@ import { Nav } from 'react-bootstrap';
 function Header() {
   return (
     <Navbar navbar-default="true">
-      <Navbar.Brand as={Link} to='/'><h1>explore.</h1></Navbar.Brand>
+      <Navbar.Brand as={Link} to='/'><h1>culture.</h1></Navbar.Brand>
       <Nav>
-        <Nav.Link as={Link} to='/countries'>Explore</Nav.Link>
-        <Nav.Link as={Link} to='/subscription'>Join Us</Nav.Link>
+        <Nav.Link as={Link} to='/countries'>about.</Nav.Link>
+        <Nav.Link as={Link} to='/countries'>explore.</Nav.Link>
+        <Nav.Link as={Link} to='/subscription'>join us.</Nav.Link>
       </Nav>
     </Navbar>
   )
