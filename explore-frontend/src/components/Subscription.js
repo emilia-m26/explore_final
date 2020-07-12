@@ -39,7 +39,7 @@ class Subscription extends Component {
                 </Form.Group>
 
             <Button variant="info" type="submit">
-            Subscribe!
+            Subscribe.
             </Button>
         </Form>
         </div>

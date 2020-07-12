@@ -1,10 +1,10 @@
 import React from 'react'
-
+import "../App.css";
 
 const About = () => {
     return (
       <div >
-        i am the about page
+        Welcome to cutlure
       </div>
     );
   };
