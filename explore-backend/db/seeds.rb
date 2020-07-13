@@ -162,35 +162,35 @@ Topic.create(country_id:20, name: "Art", description:"Art of South Korea ", vid_
 Topic.create(country_id:20, name: "Dance", description:"Traditional Dances of South Korea ", vid_url:"https://www.youtube.com/watch?v=TtJfefdr2Gc")
 Topic.create(country_id:20, name: "Food", description:"Street Food of South Korea", vid_url:"https://www.youtube.com/watch?v=dbofhUfQ1p4")
 
-#country 21 topics - 
-Topic.create(country_id:21, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:21, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:21, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:21, name: "Food", description:"Street Food of ", vid_url:"")
+#country 21 topics - china
+Topic.create(country_id:21, name: "Language", description:"The Mandarin Chinese Language", vid_url:"https://www.youtube.com/watch?v=LtIuhgr5rFY")
+Topic.create(country_id:21, name: "Art", description:"Art of China", vid_url:"https://www.youtube.com/watch?v=ViHZ_OdCDBg")
+Topic.create(country_id:21, name: "Dance", description:"Traditional Dances of China", vid_url:"https://www.youtube.com/watch?v=fw1QAcnYw2c")
+Topic.create(country_id:21, name: "Food", description:"Food of ", vid_url:"https://www.youtube.com/watch?v=3w6UuOARJxs")
 
-#country 22 topics - 
-Topic.create(country_id:22, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:22, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:22, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:22, name: "Food", description:"Street Food of ", vid_url:"")
+#country 22 topics - ireland
+Topic.create(country_id:22, name: "Language", description:"The Irish Language", vid_url:"https://www.youtube.com/watch?v=aEtuJ229e_w")
+Topic.create(country_id:22, name: "Art", description:"Art of Ireland", vid_url:"https://www.youtube.com/watch?v=lLNIbroSsLo")
+Topic.create(country_id:22, name: "Dance", description:"Traditional Dances of Ireland", vid_url:"https://www.youtube.com/watch?v=EwtSaGObW4Y")
+Topic.create(country_id:22, name: "Food", description:"Food of Ireland", vid_url:"https://www.youtube.com/watch?v=kzEP9krC9SY")
 
-#country 23 topics - 
-Topic.create(country_id:23, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:23, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:23, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:23, name: "Food", description:"Street Food of ", vid_url:"")
+#country 23 topics - scotland
+Topic.create(country_id:23, name: "Language", description:"The Scottish Language", vid_url:"https://www.youtube.com/watch?v=zTu2EKJQu84")
+Topic.create(country_id:23, name: "Art", description:"Art of Scotland", vid_url:"https://www.youtube.com/watch?v=OxOfQcCRaME")
+Topic.create(country_id:23, name: "Dance", description:"Traditional Dances of Scotland", vid_url:"https://www.youtube.com/watch?v=Be59_bdC-6w")
+Topic.create(country_id:23, name: "Food", description:"Food of Scotland", vid_url:"https://www.youtube.com/watch?v=3G7Aswe1sjs")
 
-#country 24 topics - 
-Topic.create(country_id:24, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:24, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:24, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:24, name: "Food", description:"Street Food of ", vid_url:"")
+#country 24 topics - norway
+Topic.create(country_id:24, name: "Language", description:"The Norwegian Language", vid_url:"https://www.youtube.com/watch?v=UpS35iS_L7E&t=2s")
+Topic.create(country_id:24, name: "Art", description:"Art of Norway", vid_url:"ttps://www.youtube.com/watch?v=3R4FkEMBLRU")
+Topic.create(country_id:24, name: "Dance", description:"Traditional Dances of Norway", vid_url:"https://www.youtube.com/watch?v=Rxr453fD_i4")
+Topic.create(country_id:24, name: "Food", description:"Street Food of Norway", vid_url:"https://www.youtube.com/watch?v=oPX040-omnc")
 
-#country 25 topics - 
-Topic.create(country_id:25, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:25, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:25, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:25, name: "Food", description:"Street Food of ", vid_url:"")
+#country 25 topics - russia
+Topic.create(country_id:25, name: "Language", description:"The Russian Language", vid_url:"https://www.youtube.com/watch?v=K0u0SZYHPd0")
+Topic.create(country_id:25, name: "Art", description:"Art of Russia", vid_url:"https://www.youtube.com/watch?v=-F0vMMPwj6U")
+Topic.create(country_id:25, name: "Dance", description:"Traditional Dances of Russia", vid_url:"https://www.youtube.com/watch?v=fd6EKKKjIoE")
+Topic.create(country_id:25, name: "Food", description:"Food of Russia ", vid_url:"https://www.youtube.com/watch?v=9EjF7R9K30M")
 
 #country 26 topics - 
 Topic.create(country_id:26, name: "Language", description:"", vid_url:"")
