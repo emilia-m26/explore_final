@@ -24,11 +24,11 @@ Country.create(name:"New Zealand (Aotearoa)",detail:"", img_url: " https://www.n
 Country.create(name:"Tonga",detail:"", img_url: "https://www.beltandroad.news/wp-content/uploads/2019/08/Tonga-and-Pacific-Islands.jpg")
 Country.create(name:"Indonesia",detail:"", img_url: "https://img.jakpost.net/c/2016/09/21/2016_09_21_12422_1474449430._large.jpg")
 #countries 16-20
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"Armenia",detail:"", img_url: "https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2019/11/beautiful-monastery-in-Armenia-Trafalgar.jpg")
+Country.create(name:"Turkey",detail:"", img_url: "https://www.planetware.com/photos-large/TR/turkey-aya-sofya-exterior.jpg")
+Country.create(name:"Israel",detail:"", img_url: "https://www.touristisrael.com/wp-content/uploads/Explore-Israel-Header.jpg")
+Country.create(name:"Somalia",detail:"", img_url: "https://i.pinimg.com/originals/63/5c/fa/635cfa7bc8203cafa43ddf47b670d5d7.jpg")
+Country.create(name:"South Korea",detail:"", img_url: "https://lp-cms-production.imgix.net/2019-06/09a64fea2933f6da77ab07d671d1f678-south-korea.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4")
 #countries 21-25
 Country.create(name:"",detail:"", img_url: "")
 Country.create(name:"",detail:"", img_url: "")
@@ -132,35 +132,35 @@ Topic.create(country_id:15, name: "Art", description:"Art of Indonesia ", vid_ur
 Topic.create(country_id:15, name: "Dance", description:"Traditional Dances of Indonesia", vid_url:"https://www.youtube.com/watch?v=k9lNc4fu8Zc")
 Topic.create(country_id:15, name: "Food", description:"Food of Indonesia ", vid_url:"https://www.youtube.com/watch?v=9GLwZ_3bNSY")
 
-#country 16 topics - 
-Topic.create(country_id:16, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:16, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:16, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:16, name: "Food", description:"Street Food of ", vid_url:"")
+#country 16 topics - armenia
+Topic.create(country_id:16, name: "Language", description:"The Armenian Language", vid_url:"https://www.youtube.com/watch?v=toN4j3h-6bY")
+Topic.create(country_id:16, name: "Art", description:"Art of Armenia", vid_url:"https://www.youtube.com/watch?v=fAR5Js_WEvI")
+Topic.create(country_id:16, name: "Dance", description:"Traditional Dances of Armenia", vid_url:"https://www.youtube.com/watch?v=4xt11pOA-dg")
+Topic.create(country_id:16, name: "Food", description:"Food of Armenia", vid_url:"https://www.youtube.com/watch?v=Qx2YjfLjZ-A")
 
-#country 17 topics - 
-Topic.create(country_id:17, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:17, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:17, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:17, name: "Food", description:"Street Food of ", vid_url:"")
+#country 17 topics - turkey
+Topic.create(country_id:17, name: "Language", description:"The Turkish Language", vid_url:"https://www.youtube.com/watch?v=C8VMt7J5Xis")
+Topic.create(country_id:17, name: "Art", description:"Art of Turkey", vid_url:"https://www.youtube.com/watch?v=OqclBOtOEx8")
+Topic.create(country_id:17, name: "Dance", description:"Traditional Dances of Turkey", vid_url:"https://www.youtube.com/watch?v=FpZ5qc03_-k")
+Topic.create(country_id:17, name: "Food", description:"Food of Turkey", vid_url:"https://www.youtube.com/watch?v=Im2gVWc2-hU")
 
-#country 18 topics - 
-Topic.create(country_id:18, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:18, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:18, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:18, name: "Food", description:"Street Food of ", vid_url:"")
+#country 18 topics - israel
+Topic.create(country_id:18, name: "Language", description:"The Hebrew Language", vid_url:"https://www.youtube.com/watch?v=O9DBoIEMbLQ")
+Topic.create(country_id:18, name: "Art", description:"Art of Israel", vid_url:"https://www.youtube.com/watch?v=Z5Nk6SRPsec")
+Topic.create(country_id:18, name: "Dance", description:"Traditional Dances of Israel", vid_url:"https://www.youtube.com/watch?v=E7e-AczRF9Q")
+Topic.create(country_id:18, name: "Food", description:"Food of Israel", vid_url:"https://www.youtube.com/watch?v=eK0L97k6KMs")
 
-#country 19 topics - 
-Topic.create(country_id:19, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:19, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:19, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:19, name: "Food", description:"Street Food of ", vid_url:"")
+#country 19 topics - somalia
+Topic.create(country_id:19, name: "Language", description:"The Somali Language", vid_url:"https://www.youtube.com/watch?v=qPGyBr0n7o4")
+Topic.create(country_id:19, name: "Art", description:"Art of Somalia", vid_url:"https://www.youtube.com/watch?v=yPnQgLbzI0k")
+Topic.create(country_id:19, name: "Dance", description:"Dances of Somalia", vid_url:"ps://www.youtube.com/watch?v=4J_MK2go6zA")
+Topic.create(country_id:19, name: "Food", description:"Food of Somalia", vid_url:"https://www.youtube.com/watch?v=P9vCHIcfGA8")
 
-#country 20 topics - 
-Topic.create(country_id:20, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:20, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:20, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:20, name: "Food", description:"Street Food of ", vid_url:"")
+#country 20 topics - south korea
+Topic.create(country_id:20, name: "Language", description:"The Korean Language", vid_url:"https://www.youtube.com/watch?v=FdcklVPccUw")
+Topic.create(country_id:20, name: "Art", description:"Art of South Korea ", vid_url:"https://www.youtube.com/watch?v=xdiO2ZIrqFw")
+Topic.create(country_id:20, name: "Dance", description:"Traditional Dances of South Korea ", vid_url:"https://www.youtube.com/watch?v=TtJfefdr2Gc")
+Topic.create(country_id:20, name: "Food", description:"Street Food of South Korea", vid_url:"https://www.youtube.com/watch?v=dbofhUfQ1p4")
 
 #country 21 topics - 
 Topic.create(country_id:21, name: "Language", description:"", vid_url:"")
