@@ -11,6 +11,32 @@ Country.create(name:"Puerto Rico", detail:"La Isla del Encanto", img_url:"https:
 Country.create(name:"Egypt",detail:"Home to the Pyramids and the Sphinx", img_url: "https://assets3.thrillist.com/v1/image/2848962/size/gn-gift_guide_variable_c.jpg")
 Country.create(name:"India",detail:"Home to one of the Seven Wonders of the World: the Taj Mahal", img_url: "https://www.businessdestinations.com/wp-content/uploads/2014/04/Taj-Mahal.jpg")
 
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"",detail:"", img_url: "")
+
 #country 1 topics - japan
 Topic.create(country_id:1, name: "Language", description:"The official language of Japan is Japanese.", vid_url:"https://www.youtube.com/watch?v=vZPHhRHVUco")
 Topic.create(country_id:1, name: "Art", description:"Traditional Painting Style", vid_url:"https://www.youtube.com/watch?v=g7H8IhGZnpM")
@@ -40,6 +66,10 @@ Topic.create(country_id:5, name: "Language", description:"Hindi derives from San
 Topic.create(country_id:5, name: "Art", description:"Art of India", vid_url:"https://www.youtube.com/watch?v=I4KV_qCZsyQ")
 Topic.create(country_id:5, name: "Dance", description:"Traditional Dances of India", vid_url:"https://www.youtube.com/watch?v=ZizEjh4_EdM")
 Topic.create(country_id:5, name: "Food", description:"Street Food of India", vid_url:"https://www.youtube.com/watch?v=K6FOZaZQ99A")
+
+
+
+
 
 #emails already subscribed
 Subscription.create(email:"emilia@example.com")
