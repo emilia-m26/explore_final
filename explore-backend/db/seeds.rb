@@ -11,11 +11,11 @@ Country.create(name:"Puerto Rico", detail:"La Isla del Encanto", img_url:"https:
 Country.create(name:"Egypt",detail:"Home to the Pyramids and the Sphinx", img_url: "https://assets3.thrillist.com/v1/image/2848962/size/gn-gift_guide_variable_c.jpg")
 Country.create(name:"India",detail:"Home to one of the Seven Wonders of the World: the Taj Mahal", img_url: "https://www.businessdestinations.com/wp-content/uploads/2014/04/Taj-Mahal.jpg")
 
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"Hawaii",detail:"Home of Aloha", img_url: "https://www.gohawaii.com/sites/default/files/styles/image_gallery_bg_xl/public/hero-unit-images/12709.jpg?itok=RByMHmpc")
+Country.create(name:"Greece",detail:"Creators of the Olympic Games", img_url: "ttps://www.scotsman.com/webimg/b25lY21zOjEwNTE0NTg2LWUxM2MtNDAxNi04N2JhLTBkODQ2MGY5MjQ3ZDozZGNmMmI4ZS02NDU3LTRkOTgtYjZiNC04MjkwYjg1NWU0YWI=.jpg?width=640")
+Country.create(name:"Italy",detail:"Home to the Sistine Chapel", img_url: "https://cdn.britannica.com/82/195482-050-2373E635/Amalfi-Italy.jpg")
+Country.create(name:"Cabo Verde",detail:"An island nation on an archipelago of volcanic origin in the Atlantic Ocean", img_url: "https://blogs.afdb.org/sites/default/files/blog-caboverde-1.jpg")
+Country.create(name:"Zimbabwe",detail:"Country of Victoria Falls, one of the biggest waterfalls in the world", img_url: "https://tullyluxurytravel.com/wp-content/uploads/2019/11/zimbabwe-aspect-ratio-2500x1400.jpg")
 Country.create(name:"",detail:"", img_url: "")
 Country.create(name:"",detail:"", img_url: "")
 Country.create(name:"",detail:"", img_url: "")
@@ -67,35 +67,35 @@ Topic.create(country_id:5, name: "Art", description:"Art of India", vid_url:"htt
 Topic.create(country_id:5, name: "Dance", description:"Traditional Dances of India", vid_url:"https://www.youtube.com/watch?v=ZizEjh4_EdM")
 Topic.create(country_id:5, name: "Food", description:"Street Food of India", vid_url:"https://www.youtube.com/watch?v=K6FOZaZQ99A")
 
-#country 6 topics - 
-Topic.create(country_id:6, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:6, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:6, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:6, name: "Food", description:"Street Food of ", vid_url:"")
+#country 6 topics - hawaii
+Topic.create(country_id:6, name: "Language", description:"The native language of Hawaii", vid_url:"https://www.youtube.com/watch?v=leMj7A2Otao&t=1s")
+Topic.create(country_id:6, name: "Art", description:"Local Art of Hawaii", vid_url:"https://www.youtube.com/watch?v=5RdK_u3H8_A")
+Topic.create(country_id:6, name: "Dance", description:"Traditional Dances of Hawaii", vid_url:"https://www.youtube.com/watch?v=QMD1hYuAL40")
+Topic.create(country_id:6, name: "Food", description:"Street Food of Hawaii", vid_url:"https://www.youtube.com/watch?v=LjVuOhTS0BM")
 
-#country 7 topics - 
-Topic.create(country_id:7, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:7, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:7, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:7, name: "Food", description:"Street Food of ", vid_url:"")
+#country 7 topics - greece
+Topic.create(country_id:7, name: "Language", description:"The Greek Language", vid_url:"https://www.youtube.com/watch?v=TBTUFBO8ZHs")
+Topic.create(country_id:7, name: "Art", description:"Art of Greece", vid_url:"https://www.youtube.com/watch?v=gtKgfS1QwLk")
+Topic.create(country_id:7, name: "Dance", description:"Traditional Dances of Greece ", vid_url:"https://www.youtube.com/watch?v=5iR2bO9vEUc")
+Topic.create(country_id:7, name: "Food", description:"Street Food of Greece", vid_url:"ttps://www.youtube.com/watch?v=Kvg9kJ35jEY")
 
-#country 8 topics - 
-Topic.create(country_id:8, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:8, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:8, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:8, name: "Food", description:"Street Food of ", vid_url:"")
+#country 8 topics - italy
+Topic.create(country_id:8, name: "Language", description:"The Italian Language", vid_url:"https://www.youtube.com/watch?v=I6EcDZ3NuVw")
+Topic.create(country_id:8, name: "Art", description:"Art of Italy ", vid_url:"https://www.youtube.com/watch?v=WAWjiWqPYR0")
+Topic.create(country_id:8, name: "Dance", description:"Traditional Dances of Italy", vid_url:"https://www.youtube.com/watch?v=9POXYWLcvYI")
+Topic.create(country_id:8, name: "Food", description:"Street Food of Italy", vid_url:"https://www.youtube.com/watch?v=vPVqo3MvfVo")
 
-#country 9 topics - 
-Topic.create(country_id:9, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:9, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:9, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:9, name: "Food", description:"Street Food of ", vid_url:"")
+#country 9 topics - cabo verde
+Topic.create(country_id:9, name: "Language", description:"European Portuguese is the Language of Cabo Verde", vid_url:"https://www.youtube.com/watch?v=DI-fLm0c_TY&list=PLzyEfc7kyhnvt1kxe2QbOgg-_B_Msc5eL&index=3&t=0s")
+Topic.create(country_id:9, name: "Art", description:"Art of Cabo Verde", vid_url:"https://www.youtube.com/watch?v=4ARv1MrxZ2I")
+Topic.create(country_id:9, name: "Dance", description:"Dances of Cabo Cerde", vid_url:"https://www.youtube.com/watch?v=ugK5b8TIvTQ")
+Topic.create(country_id:9, name: "Food", description:"Food of Cabo Verde", vid_url:"https://www.youtube.com/watch?v=ctbxBR_m8SA")
 
-#country 10 topics - 
-Topic.create(country_id:10, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:10, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:10, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:10, name: "Food", description:"Street Food of ", vid_url:"")
+#country 10 topics - zimbabwe
+Topic.create(country_id:10, name: "Language", description:"The Venda Language", vid_url:"https://www.youtube.com/watch?v=wPZ6RlghHNI&t=30s")
+Topic.create(country_id:10, name: "Art", description:"Art of Zimbabwe", vid_url:"https://www.youtube.com/watch?v=6eyTD8zLyV0")
+Topic.create(country_id:10, name: "Dance", description:"Traditional Dances of Zimbabwe", vid_url:"https://www.youtube.com/watch?v=ALErR9ossP0")
+Topic.create(country_id:10, name: "Food", description:"Food of Zimbabwe", vid_url:"ttps://www.youtube.com/watch?v=OSvZ-7hxmrY")
 
 #country 11 topics - 
 Topic.create(country_id:11, name: "Language", description:"", vid_url:"")
