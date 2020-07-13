@@ -36,11 +36,11 @@ Country.create(name:"",detail:"", img_url: "")
 Country.create(name:"",detail:"", img_url: "")
 Country.create(name:"",detail:"", img_url: "")
 #countries 26-30
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
-Country.create(name:"",detail:"", img_url: "")
+Country.create(name:"Germany",detail:"", img_url: "https://www.history.com/.image/t_share/MTU4MDk5NjM2NDg4MjUwNTcy/germany.jpg")
+Country.create(name:"Saudi Arabia",detail:"", img_url: "https://www.arabianbusiness.com/public/styles/full_img/public/images/2020/01/26/18-Riyadh.jpg?itok=7ps66JJe")
+Country.create(name:"Spain",detail:"", img_url: "https://cdn.cnn.com/cnnnext/dam/assets/170706113411-spain.jpg")
+Country.create(name:"Nepal",detail:"", img_url: "https://images.dailyhive.com/20200313123227/shutterstock_360405194.jpg")
+Country.create(name:"Nigeria",detail:"", img_url: "https://technologymirror.com.ng/wp-content/uploads/2019/05/Lagos.jpg")
 
 #country 1 topics - japan
 Topic.create(country_id:1, name: "Language", description:"The official language of Japan is Japanese.", vid_url:"https://www.youtube.com/watch?v=vZPHhRHVUco")
@@ -192,35 +192,35 @@ Topic.create(country_id:25, name: "Art", description:"Art of Russia", vid_url:"h
 Topic.create(country_id:25, name: "Dance", description:"Traditional Dances of Russia", vid_url:"https://www.youtube.com/watch?v=fd6EKKKjIoE")
 Topic.create(country_id:25, name: "Food", description:"Food of Russia ", vid_url:"https://www.youtube.com/watch?v=9EjF7R9K30M")
 
-#country 26 topics - 
-Topic.create(country_id:26, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:26, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:26, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:26, name: "Food", description:"Street Food of ", vid_url:"")
+#country 26 topics - germany
+Topic.create(country_id:26, name: "Language", description:"The German Language", vid_url:"https://www.youtube.com/watch?v=oYx0-ag8QfQ")
+Topic.create(country_id:26, name: "Art", description:"Art of Germany", vid_url:"https://www.youtube.com/watch?v=1xZnXT10yw4")
+Topic.create(country_id:26, name: "Dance", description:"Traditional Dances of Germany", vid_url:"https://www.youtube.com/watch?v=-3yJfkgjG1Y")
+Topic.create(country_id:26, name: "Food", description:"Food of Germany", vid_url:"https://www.youtube.com/watch?v=nrf576J4Lg8")
 
-#country 27 topics - 
-Topic.create(country_id:27, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:27, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:27, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:27, name: "Food", description:"Street Food of ", vid_url:"")
+#country 27 topics - saudi arabia
+Topic.create(country_id:27, name: "Language", description:"The Arabic Language", vid_url:"https://www.youtube.com/watch?v=XTeiW-Ps6AE")
+Topic.create(country_id:27, name: "Art", description:"Art of ", vid_url:"tps://www.youtube.com/watch?v=dMGf4m0Ynog")
+Topic.create(country_id:27, name: "Dance", description:"Traditional Dances of ", vid_url:"https://www.youtube.com/watch?v=ULfavEW_98I")
+Topic.create(country_id:27, name: "Food", description:"Street Food of ", vid_url:"https://www.youtube.com/watch?v=rOAbYFdNQEo")
 
-#country 28 topics - 
-Topic.create(country_id:28, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:28, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:28, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:28, name: "Food", description:"Street Food of ", vid_url:"")
+#country 28 topics - spain
+Topic.create(country_id:28, name: "Language", description:"The Castillian Spanish Language", vid_url:"https://www.youtube.com/watch?v=wz_c7BzLgqM")
+Topic.create(country_id:28, name: "Art", description:"Art of Spain", vid_url:"https://www.youtube.com/watch?v=dBUz9E8m8RA")
+Topic.create(country_id:28, name: "Dance", description:"Traditional Dances of Spain", vid_url:"https://www.youtube.com/watch?v=MNpij-Rsdvc")
+Topic.create(country_id:28, name: "Food", description:"Food of Spain", vid_url:"https://www.youtube.com/watch?v=F9XfTMm2CyM")
 
-#country 29 topics - 
-Topic.create(country_id:29, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:29, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:29, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:29, name: "Food", description:"Street Food of ", vid_url:"")
+#country 29 topics - nepal
+Topic.create(country_id:29, name: "Language", description:"The Nepali Language", vid_url:"https://www.youtube.com/watch?v=U_NkkklLRFo&t=1s")
+Topic.create(country_id:29, name: "Art", description:"Art of Nepal", vid_url:"https://www.youtube.com/watch?v=1UX8aGsWbvo")
+Topic.create(country_id:29, name: "Dance", description:"Traditional Dances of Nepal", vid_url:"https://www.youtube.com/watch?v=6MRxCSM_k74")
+Topic.create(country_id:29, name: "Food", description:"Street Food of Nepal", vid_url:"https://www.youtube.com/watch?v=_wfFmfxtCCU")
 
-#country 30 topics - 
-Topic.create(country_id:30, name: "Language", description:"", vid_url:"")
-Topic.create(country_id:30, name: "Art", description:"Art of ", vid_url:"")
-Topic.create(country_id:30, name: "Dance", description:"Traditional Dances of ", vid_url:"")
-Topic.create(country_id:30, name: "Food", description:"Street Food of ", vid_url:"")
+#country 30 topics - nigeria
+Topic.create(country_id:30, name: "Language", description:"The Yoruba Language", vid_url:"https://www.youtube.com/watch?v=yfoH8J3TBlI&t=2s")
+Topic.create(country_id:30, name: "Art", description:"Art of Nigeria", vid_url:"https://www.youtube.com/watch?v=N-2a44nLEHI")
+Topic.create(country_id:30, name: "Dance", description:"Traditional Dances of Nigeria", vid_url:"https://www.youtube.com/watch?v=MyPKaf8ncxM")
+Topic.create(country_id:30, name: "Food", description:"Food of Nigeria", vid_url:"https://www.youtube.com/watch?v=mb09KsOk1Ww")
 
 
 
