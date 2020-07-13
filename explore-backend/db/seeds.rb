@@ -67,6 +67,156 @@ Topic.create(country_id:5, name: "Art", description:"Art of India", vid_url:"htt
 Topic.create(country_id:5, name: "Dance", description:"Traditional Dances of India", vid_url:"https://www.youtube.com/watch?v=ZizEjh4_EdM")
 Topic.create(country_id:5, name: "Food", description:"Street Food of India", vid_url:"https://www.youtube.com/watch?v=K6FOZaZQ99A")
 
+#country 6 topics - 
+Topic.create(country_id:6, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:6, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:6, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:6, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 7 topics - 
+Topic.create(country_id:7, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:7, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:7, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:7, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 8 topics - 
+Topic.create(country_id:8, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:8, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:8, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:8, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 9 topics - 
+Topic.create(country_id:9, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:9, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:9, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:9, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 10 topics - 
+Topic.create(country_id:10, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:10, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:10, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:10, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 11 topics - 
+Topic.create(country_id:11, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:11, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:11, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:11, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 12 topics - 
+Topic.create(country_id:12, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:12, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:12, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:12, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 13 topics - 
+Topic.create(country_id:13, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:13, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:13, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:13, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 14 topics - 
+Topic.create(country_id:14, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:14, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:14, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:14, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 15 topics - 
+Topic.create(country_id:15, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:15, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:15, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:15, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 16 topics - 
+Topic.create(country_id:16, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:16, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:16, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:16, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 17 topics - 
+Topic.create(country_id:17, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:17, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:17, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:17, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 18 topics - 
+Topic.create(country_id:18, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:18, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:18, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:18, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 19 topics - 
+Topic.create(country_id:19, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:19, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:19, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:19, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 20 topics - 
+Topic.create(country_id:20, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:20, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:20, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:20, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 21 topics - 
+Topic.create(country_id:21, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:21, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:21, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:21, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 22 topics - 
+Topic.create(country_id:22, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:22, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:22, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:22, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 23 topics - 
+Topic.create(country_id:23, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:23, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:23, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:23, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 24 topics - 
+Topic.create(country_id:24, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:24, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:24, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:24, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 25 topics - 
+Topic.create(country_id:25, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:25, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:25, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:25, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 26 topics - 
+Topic.create(country_id:26, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:26, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:26, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:26, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 27 topics - 
+Topic.create(country_id:27, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:27, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:27, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:27, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 28 topics - 
+Topic.create(country_id:28, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:28, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:28, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:28, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 29 topics - 
+Topic.create(country_id:29, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:29, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:29, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:29, name: "Food", description:"Street Food of ", vid_url:"")
+
+#country 30 topics - 
+Topic.create(country_id:30, name: "Language", description:"", vid_url:"")
+Topic.create(country_id:30, name: "Art", description:"Art of ", vid_url:"")
+Topic.create(country_id:30, name: "Dance", description:"Traditional Dances of ", vid_url:"")
+Topic.create(country_id:30, name: "Food", description:"Street Food of ", vid_url:"")
+
 
 
 
