@@ -18,11 +18,11 @@ Country.create(name:"Italy",detail:"Home to the Sistine Chapel", img_url: "https
 Country.create(name:"Cabo Verde",detail:"An island nation on an archipelago of volcanic origin in the Atlantic Ocean", img_url: "https://blogs.afdb.org/sites/default/files/blog-caboverde-1.jpg")
 Country.create(name:"Zimbabwe",detail:"Country of Victoria Falls, one of the biggest waterfalls in the world", img_url: "https://tullyluxurytravel.com/wp-content/uploads/2019/11/zimbabwe-aspect-ratio-2500x1400.jpg")
 #countries 11-15
-Country.create(name:"South Africa",detail:"", img_url: "https://www.andbeyond.com/wp-content/uploads/sites/5/cape-town-aerial-view-greenpoint-stadium.jpg")
-Country.create(name:"Samoa",detail:"", img_url: "https://media.worldnomads.com/travel-safety/samoa/samoalead-SouthernLightscapesAustralia.jpg")
-Country.create(name:"New Zealand (Aotearoa)",detail:"", img_url: " https://www.newzealand.com/assets/Tourism-NZ/Fiordland/img-1536137761-110-7749-p-7ECF7092-95BD-FE18-6D4107E2E42D067E-2544003__aWxvdmVrZWxseQo_FocalPointCropWzQyNyw2NDAsNTAsNTAsODUsImpwZyIsNjUsMi41XQ.jpg")
-Country.create(name:"Tonga",detail:"", img_url: "https://www.beltandroad.news/wp-content/uploads/2019/08/Tonga-and-Pacific-Islands.jpg")
-Country.create(name:"Indonesia",detail:"", img_url: "https://img.jakpost.net/c/2016/09/21/2016_09_21_12422_1474449430._large.jpg")
+Country.create(name:"South Africa",detail:"Home to the oldest meteor scar in the world – the Vredefort Dome", img_url: "https://www.andbeyond.com/wp-content/uploads/sites/5/cape-town-aerial-view-greenpoint-stadium.jpg")
+Country.create(name:"Samoa",detail:"Where the author of Treasure Island, Robert Louis Stevenson, lived and died", img_url: "https://media.worldnomads.com/travel-safety/samoa/samoalead-SouthernLightscapesAustralia.jpg")
+Country.create(name:"New Zealand (Aotearoa)",detail:"Where only an estimated 5% of the country's population is human", img_url: " https://www.newzealand.com/assets/Tourism-NZ/Fiordland/img-1536137761-110-7749-p-7ECF7092-95BD-FE18-6D4107E2E42D067E-2544003__aWxvdmVrZWxseQo_FocalPointCropWzQyNyw2NDAsNTAsNTAsODUsImpwZyIsNjUsMi41XQ.jpg")
+Country.create(name:"Tonga",detail:"An archipelago with more than 170 islands", img_url: "https://www.beltandroad.news/wp-content/uploads/2019/08/Tonga-and-Pacific-Islands.jpg")
+Country.create(name:"Indonesia",detail:"The largest island nation in the world", img_url: "https://img.jakpost.net/c/2016/09/21/2016_09_21_12422_1474449430._large.jpg")
 #countries 16-20
 Country.create(name:"Armenia",detail:"", img_url: "https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2019/11/beautiful-monastery-in-Armenia-Trafalgar.jpg")
 Country.create(name:"Turkey",detail:"", img_url: "https://www.planetware.com/photos-large/TR/turkey-aya-sofya-exterior.jpg")
