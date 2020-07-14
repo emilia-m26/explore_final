@@ -36,11 +36,11 @@ Country.create(name:"Scotland",detail:"Where the national animal is the Unicorn"
 Country.create(name:"Norway",detail:"The inventors of ancient and modern skiing", img_url: "https://media.timeout.com/images/105237855/image.jpg")
 Country.create(name:"Russia",detail:"Home of the world's longest railway", img_url: "https://www.state.gov/wp-content/uploads/2018/11/Russia-2499x1406.jpg")
 #countries 26-30
-Country.create(name:"Germany",detail:"", img_url: "https://www.history.com/.image/t_share/MTU4MDk5NjM2NDg4MjUwNTcy/germany.jpg")
-Country.create(name:"Saudi Arabia",detail:"", img_url: "https://www.arabianbusiness.com/public/styles/full_img/public/images/2020/01/26/18-Riyadh.jpg?itok=7ps66JJe")
-Country.create(name:"Spain",detail:"", img_url: "https://cdn.cnn.com/cnnnext/dam/assets/170706113411-spain.jpg")
-Country.create(name:"Nepal",detail:"", img_url: "https://images.dailyhive.com/20200313123227/shutterstock_360405194.jpg")
-Country.create(name:"Nigeria",detail:"", img_url: "https://technologymirror.com.ng/wp-content/uploads/2019/05/Lagos.jpg")
+Country.create(name:"Germany",detail:"The first to adopt daylight savings time in 1916", img_url: "https://www.history.com/.image/t_share/MTU4MDk5NjM2NDg4MjUwNTcy/germany.jpg")
+Country.create(name:"Saudi Arabia",detail:"The place with the most oil of any place in the world", img_url: "https://www.arabianbusiness.com/public/styles/full_img/public/images/2020/01/26/18-Riyadh.jpg?itok=7ps66JJe")
+Country.create(name:"Spain",detail:"Home to the World's Oldest Restaurant", img_url: "https://cdn.cnn.com/cnnnext/dam/assets/170706113411-spain.jpg")
+Country.create(name:"Nepal",detail:"Home of Eight of the world's fourteen highest peaks", img_url: "https://images.dailyhive.com/20200313123227/shutterstock_360405194.jpg")
+Country.create(name:"Nigeria",detail:"The seventh-most populous country in the world", img_url: "https://technologymirror.com.ng/wp-content/uploads/2019/05/Lagos.jpg")
 
 #country 1 topics - japan
 Topic.create(country_id:1, name: "Language", description:"The official language of Japan is Japanese.", vid_url:"https://www.youtube.com/watch?v=vZPHhRHVUco")
