@@ -30,11 +30,11 @@ Country.create(name:"Israel",detail:"Where over 1,000 letters arrive in Jerusale
 Country.create(name:"Somalia",detail:"Where the Camel is the most important animal", img_url: "https://i.pinimg.com/originals/63/5c/fa/635cfa7bc8203cafa43ddf47b670d5d7.jpg")
 Country.create(name:"South Korea",detail:"Where the national sport is Taekwondo", img_url: "https://lp-cms-production.imgix.net/2019-06/09a64fea2933f6da77ab07d671d1f678-south-korea.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4")
 #countries 21-25
-Country.create(name:"China",detail:"", img_url: "https://specials-images.forbesimg.com/imageserve/1148469549/960x0.jpg?fit=scale")
-Country.create(name:"Ireland",detail:"", img_url: "https://api-abroad.sfo2.cdn.digitaloceanspaces.com/images/_1200x675_crop_center-center_82_line/ireland-galway-castle-80076493.jpg")
-Country.create(name:"Scotland",detail:"", img_url: "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1024,c_fill,g_auto,h_576,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170606121333-scotland---travel-destination---shutterstock-512226913.jpg")
-Country.create(name:"Norway",detail:"", img_url: "https://media.timeout.com/images/105237855/image.jpg")
-Country.create(name:"Russia",detail:"", img_url: "https://www.state.gov/wp-content/uploads/2018/11/Russia-2499x1406.jpg")
+Country.create(name:"China",detail:"Where fortune cookies are not a traditional Chinese custom", img_url: "https://specials-images.forbesimg.com/imageserve/1148469549/960x0.jpg?fit=scale")
+Country.create(name:"Ireland",detail:"Where the submarine was invented", img_url: "https://api-abroad.sfo2.cdn.digitaloceanspaces.com/images/_1200x675_crop_center-center_82_line/ireland-galway-castle-80076493.jpg")
+Country.create(name:"Scotland",detail:"Where the national animal is the Unicorn", img_url: "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1024,c_fill,g_auto,h_576,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170606121333-scotland---travel-destination---shutterstock-512226913.jpg")
+Country.create(name:"Norway",detail:"The inventors of ancient and modern skiing", img_url: "https://media.timeout.com/images/105237855/image.jpg")
+Country.create(name:"Russia",detail:"Home of the world's longest railway", img_url: "https://www.state.gov/wp-content/uploads/2018/11/Russia-2499x1406.jpg")
 #countries 26-30
 Country.create(name:"Germany",detail:"", img_url: "https://www.history.com/.image/t_share/MTU4MDk5NjM2NDg4MjUwNTcy/germany.jpg")
 Country.create(name:"Saudi Arabia",detail:"", img_url: "https://www.arabianbusiness.com/public/styles/full_img/public/images/2020/01/26/18-Riyadh.jpg?itok=7ps66JJe")
