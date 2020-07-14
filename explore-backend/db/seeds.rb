@@ -24,11 +24,11 @@ Country.create(name:"New Zealand (Aotearoa)",detail:"Where only an estimated 5% 
 Country.create(name:"Tonga",detail:"An archipelago with more than 170 islands", img_url: "https://www.beltandroad.news/wp-content/uploads/2019/08/Tonga-and-Pacific-Islands.jpg")
 Country.create(name:"Indonesia",detail:"The largest island nation in the world", img_url: "https://img.jakpost.net/c/2016/09/21/2016_09_21_12422_1474449430._large.jpg")
 #countries 16-20
-Country.create(name:"Armenia",detail:"", img_url: "https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2019/11/beautiful-monastery-in-Armenia-Trafalgar.jpg")
-Country.create(name:"Turkey",detail:"", img_url: "https://www.planetware.com/photos-large/TR/turkey-aya-sofya-exterior.jpg")
-Country.create(name:"Israel",detail:"", img_url: "https://www.touristisrael.com/wp-content/uploads/Explore-Israel-Header.jpg")
-Country.create(name:"Somalia",detail:"", img_url: "https://i.pinimg.com/originals/63/5c/fa/635cfa7bc8203cafa43ddf47b670d5d7.jpg")
-Country.create(name:"South Korea",detail:"", img_url: "https://lp-cms-production.imgix.net/2019-06/09a64fea2933f6da77ab07d671d1f678-south-korea.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4")
+Country.create(name:"Armenia",detail:"Home the world's oldest winery", img_url: "https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2019/11/beautiful-monastery-in-Armenia-Trafalgar.jpg")
+Country.create(name:"Turkey",detail:"Where the national sport is oil wrestling", img_url: "https://www.planetware.com/photos-large/TR/turkey-aya-sofya-exterior.jpg")
+Country.create(name:"Israel",detail:"Where over 1,000 letters arrive in Jerusalem every year addressed to God", img_url: "https://www.touristisrael.com/wp-content/uploads/Explore-Israel-Header.jpg")
+Country.create(name:"Somalia",detail:"Where the Camel is the most important animal", img_url: "https://i.pinimg.com/originals/63/5c/fa/635cfa7bc8203cafa43ddf47b670d5d7.jpg")
+Country.create(name:"South Korea",detail:"Where the national sport is Taekwondo", img_url: "https://lp-cms-production.imgix.net/2019-06/09a64fea2933f6da77ab07d671d1f678-south-korea.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4")
 #countries 21-25
 Country.create(name:"China",detail:"", img_url: "https://specials-images.forbesimg.com/imageserve/1148469549/960x0.jpg?fit=scale")
 Country.create(name:"Ireland",detail:"", img_url: "https://api-abroad.sfo2.cdn.digitaloceanspaces.com/images/_1200x675_crop_center-center_82_line/ireland-galway-castle-80076493.jpg")
