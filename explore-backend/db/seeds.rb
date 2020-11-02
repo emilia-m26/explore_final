@@ -139,13 +139,13 @@ Topic.create(country_id:16, name: "Dance", description:"Traditional Dances of Ar
 Topic.create(country_id:16, name: "Food", description:"Food of Armenia", vid_url:"https://www.youtube.com/watch?v=Qx2YjfLjZ-A")
 
 #country 17 topics - turkey
-Topic.create(country_id:17, name: "Language", description:"The Turkish Language", vid_url:"https://www.youtube.com/watch?v=C8VMt7J5Xis")
+Topic.create(country_id:17, name: "Language", description:"The Turkish Language", vid_url:"https://www.youtube.com/watch?v=hCnqPqp-CUE")
 Topic.create(country_id:17, name: "Art", description:"Art of Turkey", vid_url:"https://www.youtube.com/watch?v=OqclBOtOEx8")
 Topic.create(country_id:17, name: "Dance", description:"Traditional Dances of Turkey", vid_url:"https://www.youtube.com/watch?v=FpZ5qc03_-k")
 Topic.create(country_id:17, name: "Food", description:"Food of Turkey", vid_url:"https://www.youtube.com/watch?v=Im2gVWc2-hU")
 
 #country 18 topics - israel
-Topic.create(country_id:18, name: "Language", description:"The Hebrew Language", vid_url:"https://www.youtube.com/watch?v=O9DBoIEMbLQ")
+Topic.create(country_id:18, name: "Language", description:"The Hebrew Language", vid_url:"https://www.youtube.com/watch?v=dXRqhHPKiZY")
 Topic.create(country_id:18, name: "Art", description:"Art of Israel", vid_url:"https://www.youtube.com/watch?v=Z5Nk6SRPsec")
 Topic.create(country_id:18, name: "Dance", description:"Traditional Dances of Israel", vid_url:"https://www.youtube.com/watch?v=E7e-AczRF9Q")
 Topic.create(country_id:18, name: "Food", description:"Food of Israel", vid_url:"https://www.youtube.com/watch?v=eK0L97k6KMs")
@@ -157,67 +157,67 @@ Topic.create(country_id:19, name: "Dance", description:"Dances of Somalia", vid_
 Topic.create(country_id:19, name: "Food", description:"Food of Somalia", vid_url:"https://www.youtube.com/watch?v=P9vCHIcfGA8")
 
 #country 20 topics - south korea
-Topic.create(country_id:20, name: "Language", description:"The Korean Language", vid_url:"https://www.youtube.com/watch?v=FdcklVPccUw")
+Topic.create(country_id:20, name: "Language", description:"The Korean Language", vid_url:"https://www.youtube.com/watch?v=38Wh61nGY4w")
 Topic.create(country_id:20, name: "Art", description:"Art of South Korea ", vid_url:"https://www.youtube.com/watch?v=xdiO2ZIrqFw")
 Topic.create(country_id:20, name: "Dance", description:"Traditional Dances of South Korea ", vid_url:"https://www.youtube.com/watch?v=TtJfefdr2Gc")
 Topic.create(country_id:20, name: "Food", description:"Street Food of South Korea", vid_url:"https://www.youtube.com/watch?v=dbofhUfQ1p4")
 
 #country 21 topics - china
-Topic.create(country_id:21, name: "Language", description:"The Mandarin Chinese Language", vid_url:"https://www.youtube.com/watch?v=LtIuhgr5rFY")
+Topic.create(country_id:21, name: "Language", description:"The Mandarin Chinese Language", vid_url:"https://www.youtube.com/watch?v=R0vd1njMIOc")
 Topic.create(country_id:21, name: "Art", description:"Art of China", vid_url:"https://www.youtube.com/watch?v=ViHZ_OdCDBg")
 Topic.create(country_id:21, name: "Dance", description:"Traditional Dances of China", vid_url:"https://www.youtube.com/watch?v=fw1QAcnYw2c")
 Topic.create(country_id:21, name: "Food", description:"Food of China", vid_url:"https://www.youtube.com/watch?v=3w6UuOARJxs")
 
 #country 22 topics - ireland
-Topic.create(country_id:22, name: "Language", description:"The Irish Language", vid_url:"https://www.youtube.com/watch?v=aEtuJ229e_w")
+Topic.create(country_id:22, name: "Language", description:"The Irish Language", vid_url:"https://www.youtube.com/watch?v=zO4tFcyWIpM")
 Topic.create(country_id:22, name: "Art", description:"Art of Ireland", vid_url:"https://www.youtube.com/watch?v=lLNIbroSsLo")
 Topic.create(country_id:22, name: "Dance", description:"Traditional Dances of Ireland", vid_url:"https://www.youtube.com/watch?v=EwtSaGObW4Y")
 Topic.create(country_id:22, name: "Food", description:"Food of Ireland", vid_url:"https://www.youtube.com/watch?v=kzEP9krC9SY")
 
 #country 23 topics - scotland
-Topic.create(country_id:23, name: "Language", description:"The Scottish Language", vid_url:"https://www.youtube.com/watch?v=zTu2EKJQu84")
+Topic.create(country_id:23, name: "Language", description:"The Scottish Language", vid_url:"https://www.youtube.com/watch?v=3mCC-o8SXng")
 Topic.create(country_id:23, name: "Art", description:"Art of Scotland", vid_url:"https://www.youtube.com/watch?v=OxOfQcCRaME")
 Topic.create(country_id:23, name: "Dance", description:"Traditional Dances of Scotland", vid_url:"https://www.youtube.com/watch?v=Be59_bdC-6w")
 Topic.create(country_id:23, name: "Food", description:"Food of Scotland", vid_url:"https://www.youtube.com/watch?v=3G7Aswe1sjs")
 
 #country 24 topics - norway
-Topic.create(country_id:24, name: "Language", description:"The Norwegian Language", vid_url:"https://www.youtube.com/watch?v=UpS35iS_L7E&t=2s")
+Topic.create(country_id:24, name: "Language", description:"The Norhern Sami Language", vid_url:"https://www.youtube.com/watch?v=1UKnqYBkDcY")
 Topic.create(country_id:24, name: "Art", description:"Art of Norway", vid_url:"ttps://www.youtube.com/watch?v=3R4FkEMBLRU")
 Topic.create(country_id:24, name: "Dance", description:"Traditional Dances of Norway", vid_url:"https://www.youtube.com/watch?v=Rxr453fD_i4")
 Topic.create(country_id:24, name: "Food", description:"Street Food of Norway", vid_url:"https://www.youtube.com/watch?v=oPX040-omnc")
 
 #country 25 topics - russia
-Topic.create(country_id:25, name: "Language", description:"The Russian Language", vid_url:"https://www.youtube.com/watch?v=K0u0SZYHPd0")
+Topic.create(country_id:25, name: "Language", description:"The Russian Language", vid_url:"https://www.youtube.com/watch?v=UQ7UON9ADzU")
 Topic.create(country_id:25, name: "Art", description:"Art of Russia", vid_url:"https://www.youtube.com/watch?v=-F0vMMPwj6U")
 Topic.create(country_id:25, name: "Dance", description:"Traditional Dances of Russia", vid_url:"https://www.youtube.com/watch?v=fd6EKKKjIoE")
 Topic.create(country_id:25, name: "Food", description:"Food of Russia ", vid_url:"https://www.youtube.com/watch?v=9EjF7R9K30M")
 
 #country 26 topics - germany
-Topic.create(country_id:26, name: "Language", description:"The German Language", vid_url:"https://www.youtube.com/watch?v=oYx0-ag8QfQ")
+Topic.create(country_id:26, name: "Language", description:"The German Language", vid_url:"https://www.youtube.com/watch?v=HNc0_IdSmwI")
 Topic.create(country_id:26, name: "Art", description:"Art of Germany", vid_url:"https://www.youtube.com/watch?v=1xZnXT10yw4")
 Topic.create(country_id:26, name: "Dance", description:"Traditional Dances of Germany", vid_url:"https://www.youtube.com/watch?v=-3yJfkgjG1Y")
 Topic.create(country_id:26, name: "Food", description:"Food of Germany", vid_url:"https://www.youtube.com/watch?v=nrf576J4Lg8")
 
 #country 27 topics - saudi arabia
-Topic.create(country_id:27, name: "Language", description:"The Arabic Language", vid_url:"https://www.youtube.com/watch?v=XTeiW-Ps6AE")
+Topic.create(country_id:27, name: "Language", description:"The Arabic Language", vid_url:"https://www.youtube.com/watch?v=E_PjlvoEueo")
 Topic.create(country_id:27, name: "Art", description:"Art of Saudi Arabia", vid_url:"tps://www.youtube.com/watch?v=dMGf4m0Ynog")
 Topic.create(country_id:27, name: "Dance", description:"Traditional Dances of Saudi Arabia", vid_url:"https://www.youtube.com/watch?v=ULfavEW_98I")
 Topic.create(country_id:27, name: "Food", description:"Street Food of Saudi Arabia", vid_url:"https://www.youtube.com/watch?v=rOAbYFdNQEo")
 
 #country 28 topics - spain
-Topic.create(country_id:28, name: "Language", description:"The Castillian Spanish Language", vid_url:"https://www.youtube.com/watch?v=wz_c7BzLgqM")
+Topic.create(country_id:28, name: "Language", description:"The Castillian Spanish Language", vid_url:"https://www.youtube.com/watch?v=1edvWDAaOGk")
 Topic.create(country_id:28, name: "Art", description:"Art of Spain", vid_url:"https://www.youtube.com/watch?v=dBUz9E8m8RA")
 Topic.create(country_id:28, name: "Dance", description:"Traditional Dances of Spain", vid_url:"https://www.youtube.com/watch?v=MNpij-Rsdvc")
 Topic.create(country_id:28, name: "Food", description:"Food of Spain", vid_url:"https://www.youtube.com/watch?v=F9XfTMm2CyM")
 
 #country 29 topics - nepal
-Topic.create(country_id:29, name: "Language", description:"The Nepali Language", vid_url:"https://www.youtube.com/watch?v=U_NkkklLRFo&t=1s")
+Topic.create(country_id:29, name: "Language", description:"The Nepali Language", vid_url:"https://www.youtube.com/watch?v=nZUgHAPGYU4")
 Topic.create(country_id:29, name: "Art", description:"Art of Nepal", vid_url:"https://www.youtube.com/watch?v=1UX8aGsWbvo")
 Topic.create(country_id:29, name: "Dance", description:"Traditional Dances of Nepal", vid_url:"https://www.youtube.com/watch?v=6MRxCSM_k74")
 Topic.create(country_id:29, name: "Food", description:"Street Food of Nepal", vid_url:"https://www.youtube.com/watch?v=_wfFmfxtCCU")
 
 #country 30 topics - nigeria
-Topic.create(country_id:30, name: "Language", description:"The Yoruba Language", vid_url:"https://www.youtube.com/watch?v=yfoH8J3TBlI&t=2s")
+Topic.create(country_id:30, name: "Language", description:"The Yoruba Language", vid_url:"https://www.youtube.com/watch?v=-2APkTvCNt0")
 Topic.create(country_id:30, name: "Art", description:"Art of Nigeria", vid_url:"https://www.youtube.com/watch?v=N-2a44nLEHI")
 Topic.create(country_id:30, name: "Dance", description:"Traditional Dances of Nigeria", vid_url:"https://www.youtube.com/watch?v=MyPKaf8ncxM")
 Topic.create(country_id:30, name: "Food", description:"Food of Nigeria", vid_url:"https://www.youtube.com/watch?v=mb09KsOk1Ww")
