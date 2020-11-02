@@ -73,19 +73,19 @@ Topic.create(country_id:5, name: "Dance", description:"Traditional Dances of Ind
 Topic.create(country_id:5, name: "Food", description:"Street Food of India", vid_url:"https://www.youtube.com/watch?v=K6FOZaZQ99A")
 
 #country 6 topics - hawaii
-Topic.create(country_id:6, name: "Language", description:"The native language of Hawaii", vid_url:"https://www.youtube.com/watch?v=leMj7A2Otao&t=1s")
+Topic.create(country_id:6, name: "Language", description:"The native language of Hawaii", vid_url:"https://www.youtube.com/watch?v=qRXZSwMgzsI&t=55s")
 Topic.create(country_id:6, name: "Art", description:"Local Art of Hawaii", vid_url:"https://www.youtube.com/watch?v=5RdK_u3H8_A")
 Topic.create(country_id:6, name: "Dance", description:"Traditional Dances of Hawaii", vid_url:"https://www.youtube.com/watch?v=QMD1hYuAL40")
 Topic.create(country_id:6, name: "Food", description:"Street Food of Hawaii", vid_url:"https://www.youtube.com/watch?v=LjVuOhTS0BM")
 
 #country 7 topics - greece
-Topic.create(country_id:7, name: "Language", description:"The Greek Language", vid_url:"https://www.youtube.com/watch?v=TBTUFBO8ZHs")
+Topic.create(country_id:7, name: "Language", description:"The Greek Language", vid_url:"https://www.youtube.com/watch?v=sr7IUZxJdzY")
 Topic.create(country_id:7, name: "Art", description:"Art of Greece", vid_url:"https://www.youtube.com/watch?v=gtKgfS1QwLk")
 Topic.create(country_id:7, name: "Dance", description:"Traditional Dances of Greece ", vid_url:"https://www.youtube.com/watch?v=5iR2bO9vEUc")
 Topic.create(country_id:7, name: "Food", description:"Street Food of Greece", vid_url:"ttps://www.youtube.com/watch?v=Kvg9kJ35jEY")
 
 #country 8 topics - italy
-Topic.create(country_id:8, name: "Language", description:"The Italian Language", vid_url:"https://www.youtube.com/watch?v=I6EcDZ3NuVw")
+Topic.create(country_id:8, name: "Language", description:"The Italian Language", vid_url:"https://www.youtube.com/watch?v=Xufvzj9hsn8")
 Topic.create(country_id:8, name: "Art", description:"Art of Italy ", vid_url:"https://www.youtube.com/watch?v=WAWjiWqPYR0")
 Topic.create(country_id:8, name: "Dance", description:"Traditional Dances of Italy", vid_url:"https://www.youtube.com/watch?v=9POXYWLcvYI")
 Topic.create(country_id:8, name: "Food", description:"Street Food of Italy", vid_url:"https://www.youtube.com/watch?v=vPVqo3MvfVo")
@@ -97,19 +97,19 @@ Topic.create(country_id:9, name: "Dance", description:"Dances of Cabo Cerde", vi
 Topic.create(country_id:9, name: "Food", description:"Food of Cabo Verde", vid_url:"https://www.youtube.com/watch?v=ctbxBR_m8SA")
 
 #country 10 topics - zimbabwe
-Topic.create(country_id:10, name: "Language", description:"The Venda Language", vid_url:"https://www.youtube.com/watch?v=wPZ6RlghHNI&t=30s")
+Topic.create(country_id:10, name: "Language", description:"The Venda Language", vid_url:"https://www.youtube.com/watch?v=DSsK2KJURa8")
 Topic.create(country_id:10, name: "Art", description:"Art of Zimbabwe", vid_url:"https://www.youtube.com/watch?v=6eyTD8zLyV0")
 Topic.create(country_id:10, name: "Dance", description:"Traditional Dances of Zimbabwe", vid_url:"https://www.youtube.com/watch?v=ALErR9ossP0")
 Topic.create(country_id:10, name: "Food", description:"Food of Zimbabwe", vid_url:"ttps://www.youtube.com/watch?v=OSvZ-7hxmrY")
 
 #country 11 topics - south africa
-Topic.create(country_id:11, name: "Language", description:"The Xhosa Lanuage", vid_url:"https://www.youtube.com/watch?v=sGMwOAYOxhE")
+Topic.create(country_id:11, name: "Language", description:"The Xhosa Lanuage", vid_url:"https://www.youtube.com/watch?v=cCaJ45G4dNc")
 Topic.create(country_id:11, name: "Art", description:"Art of South Africa", vid_url:"https://www.youtube.com/watch?v=fAkIYS5We4c")
 Topic.create(country_id:11, name: "Dance", description:"Dances of South Africa", vid_url:"https://www.youtube.com/watch?v=wcajK5farZ0")
 Topic.create(country_id:11, name: "Food", description:"Street Food of South Africa ", vid_url:"https://www.youtube.com/watch?v=A5DDth0FOIo")
 
 #country 12 topics - samoa
-Topic.create(country_id:12, name: "Language", description:"The Samoan Language", vid_url:"https://www.youtube.com/watch?v=Hgl8ANScl6o")
+Topic.create(country_id:12, name: "Language", description:"The Samoan Language", vid_url:"https://www.youtube.com/watch?v=MreUKHYBRtw")
 Topic.create(country_id:12, name: "Art", description:"Art of Samoa", vid_url:"https://www.youtube.com/watch?v=97KtKqMpbd0")
 Topic.create(country_id:12, name: "Dance", description:"Traditional Dances of Samoa", vid_url:"https://www.youtube.com/watch?v=VrHtTOLRm1c")
 Topic.create(country_id:12, name: "Food", description:"Food of Samoa", vid_url:"ps://www.youtube.com/watch?v=8HIhSQuOWbA")
@@ -127,7 +127,7 @@ Topic.create(country_id:14, name: "Dance", description:"Traditional Dances of To
 Topic.create(country_id:14, name: "Food", description:"Food of Tonga", vid_url:"https://www.youtube.com/watch?v=VRe40xasT98")
 
 #country 15 topics - indonesia
-Topic.create(country_id:15, name: "Language", description:"The Indonesian Language", vid_url:"https://www.youtube.com/watch?v=usVkjWzaScc")
+Topic.create(country_id:15, name: "Language", description:"The Indonesian Language", vid_url:"https://www.youtube.com/watch?v=wa5NqPV9n98")
 Topic.create(country_id:15, name: "Art", description:"Art of Indonesia ", vid_url:"https://www.youtube.com/watch?v=AJoOlCRgm84")
 Topic.create(country_id:15, name: "Dance", description:"Traditional Dances of Indonesia", vid_url:"https://www.youtube.com/watch?v=k9lNc4fu8Zc")
 Topic.create(country_id:15, name: "Food", description:"Food of Indonesia ", vid_url:"https://www.youtube.com/watch?v=9GLwZ_3bNSY")
