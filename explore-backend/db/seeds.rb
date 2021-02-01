@@ -12,11 +12,11 @@ Country.create(continent: "North America", name:"Puerto Rico", detail:"La Isla d
 Country.create(continent: "Africa", name:"Egypt",detail:"Home to the Pyramids and the Sphinx", img_url: "https://assets3.thrillist.com/v1/image/2848962/size/gn-gift_guide_variable_c.jpg")
 Country.create(continent: "Asia", name:"India",detail:"Home to one of the Seven Wonders of the World: the Taj Mahal", img_url: "https://www.businessdestinations.com/wp-content/uploads/2014/04/Taj-Mahal.jpg")
 #countries 6-10
-Country.create(name:"Hawaii",detail:"Home of Aloha", img_url: "https://www.gohawaii.com/sites/default/files/styles/image_gallery_bg_xl/public/hero-unit-images/12709.jpg?itok=RByMHmpc")
-Country.create(name:"Greece",detail:"Creators of the Olympic Games", img_url: "https://www.scotsman.com/webimg/b25lY21zOjEwNTE0NTg2LWUxM2MtNDAxNi04N2JhLTBkODQ2MGY5MjQ3ZDozZGNmMmI4ZS02NDU3LTRkOTgtYjZiNC04MjkwYjg1NWU0YWI=.jpg?width=640")
-Country.create(name:"Italy",detail:"Home to the Sistine Chapel", img_url: "https://cdn.britannica.com/82/195482-050-2373E635/Amalfi-Italy.jpg")
-Country.create(name:"Cabo Verde",detail:"An island nation on an archipelago of volcanic origin in the Atlantic Ocean", img_url: "https://blogs.afdb.org/sites/default/files/blog-caboverde-1.jpg")
-Country.create(name:"Zimbabwe",detail:"Country of Victoria Falls, one of the biggest waterfalls in the world", img_url: "https://tullyluxurytravel.com/wp-content/uploads/2019/11/zimbabwe-aspect-ratio-2500x1400.jpg")
+Country.create(continent: "North America", name:"Hawaii",detail:"Home of Aloha", img_url: "https://www.gohawaii.com/sites/default/files/styles/image_gallery_bg_xl/public/hero-unit-images/12709.jpg?itok=RByMHmpc")
+Country.create(continent: "Europe", name:"Greece",detail:"Creators of the Olympic Games", img_url: "https://www.scotsman.com/webimg/b25lY21zOjEwNTE0NTg2LWUxM2MtNDAxNi04N2JhLTBkODQ2MGY5MjQ3ZDozZGNmMmI4ZS02NDU3LTRkOTgtYjZiNC04MjkwYjg1NWU0YWI=.jpg?width=640")
+Country.create(continent: "Europe", name:"Italy",detail:"Home to the Sistine Chapel", img_url: "https://cdn.britannica.com/82/195482-050-2373E635/Amalfi-Italy.jpg")
+Country.create(continent: "Africa", name:"Cabo Verde",detail:"An island nation on an archipelago of volcanic origin in the Atlantic Ocean", img_url: "https://blogs.afdb.org/sites/default/files/blog-caboverde-1.jpg")
+Country.create(continent: "Africa", name:"Zimbabwe",detail:"Country of Victoria Falls, one of the biggest waterfalls in the world", img_url: "https://tullyluxurytravel.com/wp-content/uploads/2019/11/zimbabwe-aspect-ratio-2500x1400.jpg")
 #countries 11-15
 Country.create(name:"South Africa",detail:"Home to the oldest meteor scar in the world – the Vredefort Dome", img_url: "https://www.andbeyond.com/wp-content/uploads/sites/5/cape-town-aerial-view-greenpoint-stadium.jpg")
 Country.create(name:"Samoa",detail:"Where the author of Treasure Island, Robert Louis Stevenson, lived and died", img_url: "https://media.worldnomads.com/travel-safety/samoa/samoalead-SouthernLightscapesAustralia.jpg")
