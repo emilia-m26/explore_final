@@ -4,6 +4,7 @@ class CreateCountries < ActiveRecord::Migration[6.0]
       t.string :name
       t.string :detail
       t.string :img_url
+      t.string :continent
 
       t.timestamps
     end
