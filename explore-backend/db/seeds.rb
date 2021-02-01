@@ -6,11 +6,11 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 #countries 1-5
-Country.create(name:"Japan", detail:"Home of the Sakura (Cherry Blossom) trees", img_url:"https://lp-cms-production.imgix.net/2019-06/d29f08e97892053daeecc25ff5de908a-japan.jpeg")
-Country.create(name:"Brazil", detail:"Country of Samba and Futebol", img_url:"https://www.arcgis.com/sharing/rest/content/items/83eb9c53424a40808ac4fc3b99e60e38/resources/1572007732367.jpeg?w=2774")
-Country.create(name:"Puerto Rico", detail:"La Isla del Encanto", img_url:"https://media.architecturaldigest.com/photos/5ace1d482204b06f8e237dd6/16:9/w_2560%2Cc_limit/GettyImages-637492668.jpg")
-Country.create(name:"Egypt",detail:"Home to the Pyramids and the Sphinx", img_url: "https://assets3.thrillist.com/v1/image/2848962/size/gn-gift_guide_variable_c.jpg")
-Country.create(name:"India",detail:"Home to one of the Seven Wonders of the World: the Taj Mahal", img_url: "https://www.businessdestinations.com/wp-content/uploads/2014/04/Taj-Mahal.jpg")
+Country.create(continent: "Asia", name:"Japan", detail:"Home of the Sakura (Cherry Blossom) trees", img_url:"https://lp-cms-production.imgix.net/2019-06/d29f08e97892053daeecc25ff5de908a-japan.jpeg")
+Country.create(continent: "South America", name:"Brazil", detail:"Country of Samba and Futebol", img_url:"https://www.arcgis.com/sharing/rest/content/items/83eb9c53424a40808ac4fc3b99e60e38/resources/1572007732367.jpeg?w=2774")
+Country.create(continent: "North America", name:"Puerto Rico", detail:"La Isla del Encanto", img_url:"https://media.architecturaldigest.com/photos/5ace1d482204b06f8e237dd6/16:9/w_2560%2Cc_limit/GettyImages-637492668.jpg")
+Country.create(continent: "Africa", name:"Egypt",detail:"Home to the Pyramids and the Sphinx", img_url: "https://assets3.thrillist.com/v1/image/2848962/size/gn-gift_guide_variable_c.jpg")
+Country.create(continent: "Asia", name:"India",detail:"Home to one of the Seven Wonders of the World: the Taj Mahal", img_url: "https://www.businessdestinations.com/wp-content/uploads/2014/04/Taj-Mahal.jpg")
 #countries 6-10
 Country.create(name:"Hawaii",detail:"Home of Aloha", img_url: "https://www.gohawaii.com/sites/default/files/styles/image_gallery_bg_xl/public/hero-unit-images/12709.jpg?itok=RByMHmpc")
 Country.create(name:"Greece",detail:"Creators of the Olympic Games", img_url: "https://www.scotsman.com/webimg/b25lY21zOjEwNTE0NTg2LWUxM2MtNDAxNi04N2JhLTBkODQ2MGY5MjQ3ZDozZGNmMmI4ZS02NDU3LTRkOTgtYjZiNC04MjkwYjg1NWU0YWI=.jpg?width=640")
